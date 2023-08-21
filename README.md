@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: batuhanyalcinturk@gmail.com
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href='https://www.linkedin.com/in/batuhanyalcinturk/'>
     <img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
