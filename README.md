@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot and React
 - 📫 How to reach me: batuhanyalcinturk@gmail.com
 
 
@@ -45,6 +45,9 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
+  </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
   </a>
@@ -58,11 +61,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"   height="40" />
+  </a></p>
+  <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhanyalcinturk&show_icons=true&theme=radical&locale=en&layout=compact" alt="batuhanyalcinturk" /></p>
+
 
 
