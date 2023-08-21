@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: batuhanyalcinturk@gmail.com
 
 
-
+<h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href='https://www.linkedin.com/in/batuhanyalcinturk/'>
     <img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' />
